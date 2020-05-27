@@ -8,6 +8,8 @@ moderators set the culture
 
 moderating requires commitment
 
+also, moderators need to eat
+
 ### Starting channels:
 
 Free channels start with default democratic rulesets
