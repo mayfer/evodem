@@ -4,11 +4,15 @@ moderation is where the value is provided
 
 moderation is a full-time activity for the birth of a healthy community
 
-moderators set the culture
+moderators set the initial culture
 
 moderating requires commitment
 
 also, moderators need to eat
+
+and, users need to interact with moderators
+
+users keep moderators in check. users evolve the culture
 
 ### Starting channels:
 
