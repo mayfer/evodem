@@ -40,6 +40,10 @@ In a modern democracy, no matter how well you organize people, if you don't see 
 
 
 
+
+
+
+
 ### **Tools of governance**
 
 #### Vote weighting
@@ -52,6 +56,12 @@ For example, in corporations, voting usually happens based on how many shares of
 
 This is when particular individuals are given specific powers that others don't have. These appointments can happen in many ways. Elected representatives, managerial positions in companies, direct appointment by a leader, random lottery, hereditery monarchy -- these are all mechanisms behind choosing representatives with certain powers and responsibilities.
 
+Any position of power, i.e. an employee in a company or a government offical, is attained primarily by rising in the ranks. No one becomes the mayor of a city without first rising through some sort of relevant hierarchy. Usually it's through city jobs, public service or law careers etc. Although sometimes it's enough to just be Arnold Schwarzenegger, for example. \(or Trump lol.\) The ranks can be unconventional, but you can't do without it.
+
+If you don't gain the trust of key people, you don't even get the option to be voted in.
+
+Wether democratic or not, representatives are born from the processes which make people to rise or fall in ranks.
+
 #### Permission/Ability to participate in conversation \(influence\)
 
 The States is infamous for how much influence corporate donations have on the political system. They visibly guide the platform of their favorite candidates
@@ -61,6 +71,10 @@ TODO: city hearings
 #### Visibility of the conversation
 
 TODO: war decisions
+
+#### Distribution / Media
+
+This is where it gets real nasty
 
 
 
